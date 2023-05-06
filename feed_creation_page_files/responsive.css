@@ -1,0 +1,827 @@
+
+.social-media.me-0 span.me-2{
+    color: #000;
+}
+
+.tabs.border-pink.history .navnav-tabs{
+	border-bottom: none;
+}
+.last-updated{
+    font-size: 16px;
+}
+.export_id.form-group .btn{
+    margin-top: 5px !important;
+}
+.sec-design .card-header.panel_black{
+    min-height: 45px !important;
+}
+
+.sec-design .card-header.panel_black p{
+   margin-bottom: 0px !important;
+}
+
+.help-block {
+    background-color: #fff !important;
+    margin-top: 0px !important;
+}
+
+.crop-page #w1  .bulk-upload-mr0.pull-left.me-2{
+    margin-bottom: 0px !important;
+}
+.crop-page #w1  .bulk-upload-mr0.pull-left.me-2{
+    padding-bottom: 5px !important;
+}
+.col-sm-6.pb-3, .col-md-6.pb-3{
+    margin-top: 10px !important;
+}
+
+.browse-form.mt-4{
+    margin-bottom: 20px;
+}
+.row>*{
+    margin-top: 5px !important;
+}
+
+.nav-item.active .nav-link{
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+.export_id{
+    width: 100%;
+    background: #fff;
+}
+.topic-page button#bulk{
+    margin-top: 0px !important;
+}
+.container1.search-top-padding{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.feed-create .form-check-input{
+    margin-top: 2px;
+}
+
+.feed-create .btn{
+    margin-bottom: 10px;
+}
+
+.partner_sample_table div.dataTables_wrapper div.dataTables_info{
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-left: 2px;
+}
+
+.dataTables_length#example_length label{
+    margin-right: 20px;
+}
+@media only screen and (min-width: 0px) and (max-width: 319px) {
+    .feed-create .tooltip .tooltiptext{
+        width: auto;
+        right: 0;
+    }
+    .topbar .navbar{
+        padding-right: 0px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+    .topbar .navbar .dropdown{
+        position: fixed !important;
+        right: 10px !important;
+    }
+    .social-media.me-0{
+        display: none;
+    }
+    .social-media.me-0 span.me-2{
+        display: none;
+    }
+    .page-content{
+        padding: 0.5rem 1rem;
+    }
+    .page-title{
+        font-size: 20px;
+       margin: 10px 0px 15px 0px;
+    }
+    .bulkfile_main {
+        width: 100%;
+    }
+    .bulkfile_main.pull-left{
+        margin-top: 0px !important;
+    }
+    .bulkfile_main  button.btn, .bulkfile_main a.btn{
+        margin-left: 0px !important;
+    }
+    .bulk-upload-mr0{
+        background: #4ab1be;
+        margin-right: 5px !important;
+    }
+    .upload_below_text{
+        display: none;
+    }
+    .custom-upload-button, .page-title, .search-top-padding{
+        text-align: center;
+    }
+    .bulk-upload-mr0 .btn, .custom-upload-label, .bulkfile_temp .btn{
+        font-size: 13px;
+    }
+    
+    .btn i{
+        font-size: 1rem;
+    }
+    .bulkfile_temp.pull-right,  .bulkfile_main.pull-left{
+        margin-right: 0px !important;
+        margin-top: 0px !important;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp.pull-right,
+    .browse-form.mt-4 .pull-right{
+        float: none;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  button.btn,
+    .bulkfile_main  input.btn, .bulk-upload-mr0,  .search-top-padding .btn{
+        width: 48%;
+    }
+
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  input.btn,
+    .browse-form.mt-4 button.btn{
+        margin-top: 5px;
+    }
+    .bulkfile_temp .btn{
+        margin-right: 1px;
+    }
+    .card{
+        margin-bottom: 0;
+    }
+    .mobile-topbar-header img.ms-3{
+        max-width: 70%;
+        max-height: 70%;
+        margin-top: -8px;
+    }
+
+    .search-top-padding{
+        padding-top: 0 !important;
+    }
+    .search-top-padding .btn{
+       margin-left: 0px !important;
+       margin-top: 3px;
+    }
+   
+    .export_id.form-group .btn.me-1, .export_id.form-group .dropdown.me-1,	
+    .browse-form.mt-4 button,	
+    .browse-form.mt-4 input.btn,	
+    .bulkfile_temp .pull-left.me-2{	
+        width:47%;	
+    }	
+    .export_id.form-group .dropdown.me-1 .dropbtn,	
+    .bulkfile_temp .pull-left.me-2  a.btn,	
+    .bulkfile_temp .pull-left.me-2  button.btn,	
+    .bulkfile_temp .pull-left.me-2  input.btn	
+    {	
+        width: 100%;	
+        margin-top: 5px !important;	
+    }
+    .help-block{	
+        margin-bottom: 0px;
+    }	
+    .bulkfile_temp .pull-left.me-2{	
+        margin-right: 5px !important;	
+    }
+
+    .plan-cards.search_boxs.search-top-padding{
+        margin: 10px 0px;
+    }
+    .summary-btn{
+        padding-top: 0 !important;
+        padding-bottom: 10px;
+    }
+    .d-flex-cus.search_boxs .btn{
+        font-size: 10px;
+    }
+
+    .surface-index .card-heading{
+        font-size: 12px;
+    }
+    .surface-index .text-end .btn {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .user-search-form{
+        display: grid !important;
+    } 
+
+    .manager-sec .btn{
+        font-size: 12px;
+    }
+    .profile-header-info .name, .profile-header-info .profile{
+        text-align: center;
+    }
+
+    .profile-header-info .btn-yellow{
+        padding: 0.375rem 0;
+        font-weight: 600;
+    }
+    .profile-header-tab .nav-link{
+        padding: 0.5rem 1rem;
+    }
+    .activity_target .bulk-upload-mr0 .custom-upload-button #label_bulkupload{
+        height: auto;
+    }
+    .bulk-upload-mr0-reset {
+        width: 48%;
+    }
+    .bulk-upload-mr0-reset a.btn{
+        max-height: 33px;
+        width: 100%;
+    }
+    
+    .edit-user button.btn, .edit-user a.btn{
+        width: 48%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .dataTables_length#example_length label{
+        margin-bottom: 10px;
+    }
+    .dataTables_length#example_length #something{
+        width: 100%;
+    }
+    .pagination {
+        float: left;
+    }
+    
+
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .feed-create .tooltip .tooltiptext{
+        width: auto;
+        right: 0;
+    }
+    .topbar .navbar{
+        padding-right: 0px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+    .topbar .navbar .dropdown{
+        position: fixed !important;
+        right: 10px !important;
+    }
+    .social-media.me-0{
+        padding-left: 15px;
+        min-width: 70px;
+    }
+    .social-media.me-0 span.me-2{
+        display: none;
+    }
+    .page-content{
+        padding: 0.5rem 1rem;
+    }
+    .page-title{
+        font-size: 20px;
+       margin: 10px 0px 15px 0px;
+    }
+    .bulkfile_main {
+        width: 100%;
+    }
+    .bulkfile_main.pull-left{
+        margin-top: 0px !important;
+    }
+    .bulkfile_main  button.btn, .bulkfile_main a.btn{
+        margin-left: 0px !important;
+    }
+    .bulk-upload-mr0{
+        background: #4ab1be;
+        margin-right: 5px !important;
+    }
+    .upload_below_text{
+        display: none;
+    }
+    .custom-upload-button, .page-title, .search-top-padding{
+        text-align: center;
+    }
+    .custom-upload-label, .bulkfile_temp .btn{
+        font-size: 13px;
+    }
+    
+    .btn i{
+        font-size: 1rem;
+    }
+    .bulkfile_temp.pull-right,  .bulkfile_main.pull-left{
+        margin-right: 0px !important;
+        margin-top: 0px !important;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp.pull-right,
+    .browse-form.mt-4 .pull-right{
+        float: none;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  button.btn,
+    .bulkfile_main  input.btn, .bulk-upload-mr0{
+        width: 47.9%;
+    }
+
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  input.btn,
+    .browse-form.mt-4 button.btn{
+        margin-top: 5px;
+    }
+    .bulkfile_temp .btn{
+        margin-right: 1px;
+    }
+    .card{
+        margin-bottom: 0;
+    }
+    .mobile-topbar-header img.ms-3{
+        max-width: 70%;
+        max-height: 70%;
+        margin-top: -8px;
+    }
+
+    .search-top-padding{
+        padding-top: 10px;
+    }
+
+    .export_id.form-group .btn.me-1, .export_id.form-group .dropdown.me-1,
+    .browse-form.mt-4 button,
+    .browse-form.mt-4 input.btn,
+    .bulkfile_temp .pull-left.me-2{
+        width:47.9%;
+    }
+    .export_id.form-group .dropdown.me-1 .dropbtn,
+    .bulkfile_temp .pull-left.me-2  a.btn,
+    .bulkfile_temp .pull-left.me-2  button.btn,
+    .bulkfile_temp .pull-left.me-2  input.btn
+    {
+        width: 100%;
+        margin-top: 5px !important;
+    }
+    .bulkfile_temp .pull-left.me-2{
+        margin-right: 5px !important;
+    }
+    .plan-cards.search_boxs.search-top-padding{
+        margin: 10px 0px;
+    }
+    
+    .summary-btn{
+        padding-top: 0 !important;
+        padding-bottom: 10px;
+    }
+    .d-flex-cus.search_boxs .btn{
+        font-size: 12px;
+    }
+
+    .surface-index .card-heading{
+        font-size: 12px;
+        line-height: 35px;
+    }
+    .surface-index .text-end .btn {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+    .user-search-form{
+        display: grid !important;
+    }
+    .help-block{
+        margin-bottom: 0px;
+    }
+
+    .manager-sec .btn{
+        font-size: 12px;
+    }
+    .activity_target .bulk-upload-mr0 .custom-upload-button #label_bulkupload{
+        height: auto;
+    }
+    .bulk-upload-mr0-reset {
+        width: 48%;
+    }
+    .bulk-upload-mr0-reset a.btn{
+        width: 100%;
+    }
+    .edit-user button.btn, .edit-user a.btn{
+        width: 48%;
+        float: left;
+        margin-right: 1%;
+    }
+
+    .dataTables_length#example_length label{
+        margin-bottom: 10px;
+    }
+    .dataTables_length#example_length #something{
+        width: 100%;
+    }
+
+    .pagination {
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .left-panel-search{
+        display:none;
+    }
+    .right-panel-search {
+        margin-left: 0px;
+        padding: 0!important;
+    }
+    .right-panel-search .content-wrapper{
+        margin-left: 0px!important;
+    }
+
+    .upper_head .username{
+        text-align: center;
+    }
+    .upper_head .col-6.col-md-6.dropdown{
+        text-align: left !important;
+    }
+    table#partner_sample1 td p{
+        padding: 5px 5px 5px 6px !important;
+        font-size: 10px;
+    } 
+    .activity_target .bulk-upload-mr0 .custom-upload-button #label_bulkupload{
+        height: auto;
+    }
+    .bulk-upload-mr0-reset {
+        width: 48%;
+    }
+    div#label_bulkupload{
+        padding: 4px 20px !important;
+    }
+    .activitydashboardtarget-index.sec-design .btn{
+        font-size: 13px;
+    }
+    #dash_section .table>thead>tr>th{
+        vertical-align: text-top;
+    }
+    .pagination {
+        float: left;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    .feed-create .tooltip .tooltiptext{
+        width: auto;
+    } 
+    .topbar .navbar{
+        padding-right: 0px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+    .topbar .navbar .dropdown{
+        position: fixed !important;
+        right: 10px !important;
+    }
+    .social-media.me-0{
+        padding-left: 15px;
+        min-width: 70px;
+    }
+    .social-media.me-0 span.me-2{
+        display: none;
+    }
+    .page-content{
+        padding: 0.5rem 1rem;
+    }
+    .page-title{
+        font-size: 20px;
+       margin: 10px 0px 15px 0px;
+    }
+    .bulkfile_main {
+        width: 100%;
+    }
+    .bulkfile_main.pull-left{
+        margin-top: 0px !important;
+    }
+    .bulkfile_main  button.btn, .bulkfile_main a.btn{
+        margin-left: 0px !important;
+    }
+    .bulk-upload-mr0{
+        background: #4ab1be;
+        margin-right: 5px !important;
+    }
+    .upload_below_text{
+        display: none;
+    }
+    .custom-upload-button, .page-title, .search-top-padding{
+        text-align: center;
+    }
+    .custom-upload-label, .bulkfile_temp .btn{
+        font-size: 14px;
+    }
+    
+    .btn i{
+        font-size: 1rem;
+    }
+    .bulkfile_temp.pull-right,  .bulkfile_main.pull-left{
+        margin-right: 0px !important;
+        margin-top: 0px !important;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp.pull-right,
+    .browse-form.mt-4 .pull-right{
+        float: none;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  button.btn,
+    .bulkfile_main  input.btn, .bulk-upload-mr0{
+        width: 48%;
+    }
+
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main input.btn,
+    .browse-form.mt-4 button.btn{
+        margin-top: 5px;
+    }
+    .bulkfile_temp .btn{
+        margin-right: 1px;
+    }
+    .card{
+        margin-bottom: 0;
+    }
+    .mobile-topbar-header img.ms-3{
+        max-width: 70%;
+        max-height: 70%;
+        margin-top: -8px;
+    }
+
+    .plan-cards.search_boxs.search-top-padding{
+        margin: 10px 0px;
+    }
+    .search-top-padding{
+        padding-top: 10px;
+    }
+    .export_id.form-group .btn.me-1, .export_id.form-group .dropdown.me-1,	
+    .browse-form.mt-4 button,	
+    .browse-form.mt-4 input.btn,	
+    .bulkfile_temp .pull-left.me-2{	
+        width:48%;	
+    }	
+    .export_id.form-group .dropdown.me-1 .dropbtn,	
+    .bulkfile_temp .pull-left.me-2  a.btn,	
+    .bulkfile_temp .pull-left.me-2  button.btn,	
+    .bulkfile_temp .pull-left.me-2  input.btn	
+    {	
+        width: 100%;	
+        margin-top: 5px !important;	
+    }
+    .user-search-form{	
+        display: grid !important;	
+    }
+    .help-block{
+        margin-bottom: 0px;
+    }
+    .summary-btn{
+        padding-top: 0 !important;
+        padding-bottom: 10px;
+    }
+    .d-flex-cus.search_boxs .btn{
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .surface-index .card-heading{
+        font-size: 12px;
+        line-height: 35px;
+    }
+    .surface-index .text-end .btn {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+  
+    .pagination {
+        float: left;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {  
+    .topbar .navbar{
+        padding-right: 0px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+    .topbar .navbar .dropdown{
+        position: fixed !important;
+        right: 10px !important;
+    }
+    .social-media.me-0{
+        padding-left: 15px;
+        min-width: 70px;
+    }
+    .social-media.me-0 span.me-2{
+        display: none;
+    }
+    .user-info .user-name{
+        font-size: 12px;
+    }
+    .page-content{
+        padding: 0.5rem 1rem;
+    }
+    .page-title{
+        font-size: 20px;
+       margin: 10px 0px 15px 0px;
+    }
+    
+    .bulkfile_main {
+        /*width: 100%;*/
+    }
+    
+    .bulkfile_main.pull-left{
+        margin-top: 0px !important;
+    }
+    
+    .bulkfile_main  button.btn, .bulkfile_main a.btn{
+       /* margin-left: 0px !important;*/
+    }
+    
+    .bulk-upload-mr0{
+        background: #4ab1be;
+        margin-right: 5px !important;
+    }
+    .upload_below_text{
+        display: none;
+    }
+    .custom-upload-button, .page-title, .search-top-padding{
+        text-align: center;
+    }
+    .custom-upload-label, .bulkfile_temp .btn{
+        font-size: 14px;
+    }
+    
+    .btn i{
+        font-size: 1rem;
+    }
+    .bulkfile_temp.pull-right,  .bulkfile_main.pull-left{
+        margin-right: 0px !important;
+        margin-top: 0px !important;
+    }
+    /*
+    .bulkfile_main a.btn, .bulkfile_temp.pull-right{
+        float: none;
+    }
+    */
+
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  button.btn,
+    .bulkfile_main  input.btn, .bulk-upload-mr0{
+        /*width: 24.4%;*/
+    }
+    
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main input.btn{
+       /* margin-top: 5px;*/
+    }
+    
+    .bulkfile_temp .btn{
+        margin-right: 1px;
+    }
+    .card{
+        margin-bottom: 0;
+    }
+    .mobile-topbar-header img.ms-3{
+        max-width: 70%;
+        max-height: 70%;
+        margin-top: -8px;
+    }
+    .d-flex-cus.search_boxs .btn{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    
+    .export_id.form-group .btn.me-1, .export_id.form-group .dropdown.me-1,	
+    .browse-form.mt-4 button,	
+    .browse-form.mt-4 input.btn,	
+    .bulkfile_temp .pull-left.me-2{	
+        /*width:48%;*/
+    }	
+    .export_id.form-group .dropdown.me-1 .dropbtn,	
+    .bulkfile_temp .pull-left.me-2  a.btn,	
+    .bulkfile_temp .pull-left.me-2  button.btn,	
+    .bulkfile_temp .pull-left.me-2  input.btn	
+    {	
+        width: 100%;	
+    }
+    .col-sm-6.pb-3, .col-md-6.pb-3{
+        margin-top: 0px !important;
+    }
+    .help-block{	
+        margin-bottom: 0px;	
+    }
+    .crop-page #w1 .bulk-upload-mr0.pull-left.me-2{
+        padding-bottom: 0px !important;
+    }
+    .activity_target .bulk-upload-mr0 .custom-upload-button #label_bulkupload{
+        height: auto;
+    }
+    .bulk-upload-mr0-reset {
+        width: 48%;
+    }
+    .pagination {
+        float: left;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {  
+    .topbar .navbar{
+        padding-right: 0px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+    .topbar .navbar .dropdown{
+        position: fixed !important;
+        right: 10px !important;
+    }
+    .social-media.me-0{
+        padding-left: 15px;
+        min-width: 70px;
+    }
+    .social-media.me-0 span.me-2{
+        display: none;
+    }
+    .page-content{
+        padding: 0.5rem 1rem;
+    }
+    .page-title{
+        font-size: 20px;
+       margin: 10px 0px 15px 0px;
+    }
+    .bulkfile_main {
+        width: 100%;
+    }
+    .bulkfile_main.pull-left{
+        margin-top: 0px !important;
+    }
+    .bulkfile_main  button.btn, .bulkfile_main a.btn{
+        margin-left: 0px !important;
+    }
+    .bulk-upload-mr0{
+        background: #4ab1be;
+        margin-right: 6px !important;
+    }
+    .upload_below_text{
+        display: none;
+    }
+    .custom-upload-button, .page-title, .search-top-padding{
+        text-align: center;
+    }
+    .custom-upload-label, .bulkfile_temp .btn{
+        font-size: 14px;
+    }
+    
+    .btn i{
+        font-size: 1rem;
+    }
+    .bulkfile_temp.pull-right,  .bulkfile_main.pull-left{
+        margin-right: 0px !important;
+        margin-top: 0px !important;
+    }
+    .bulkfile_main a.btn, .bulkfile_temp.pull-right{
+        /*float: none;*/
+    }
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  button.btn,
+    .bulkfile_main  input.btn, .bulk-upload-mr0{
+        /*width: 24.5%;*/
+    }
+
+    .bulkfile_main a.btn, .bulkfile_temp .btn, .bulkfile_main  input.btn{
+        margin-top: 0px;
+    }
+    .bulkfile_temp .btn{
+        margin-right: 1px;
+    }
+    .card{
+        margin-bottom: 0;
+    }
+    .mobile-topbar-header img.ms-3{
+        max-width: 70%;
+        max-height: 70%;
+        margin-top: -8px;
+    }  
+    .d-flex-cus.search_boxs .btn{
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+
+    .crop-page #w1 .bulk-upload-mr0.pull-left.me-2{
+        padding-bottom: 0px !important;
+    }
+    .help-block{
+        margin-bottom: 0px;
+    }
+}
+
+.mobile-header{
+    display:none!important;
+}
+
+@media only screen and (max-width: 1200px) { 
+    .topbar-nav {
+        margin-bottom: 80px;
+    }
+    .desktop-header{
+        display:none!important;
+    }
+    .mobile-header{
+        display:flex!important;
+    }
+    .wrapper.toggled .nav-container {
+        box-shadow: 10px 0px 100px 20px #001518;
+    }
+}
+
+@media only screen and  (max-width: 767px) { 
+    .exportbtn-success{
+       width:48%!important;
+   }
+}
